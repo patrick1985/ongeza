@@ -1,12 +1,12 @@
-# ongeza
-clone/download  the project Ongeza
+# instructions 
+1. clone/download  the project Ongeza
 
-unzip 
+2. unzip 
 
-copy file to local server xampp or wamp
+3. copy file to local server xampp or wamp
 
-create database { mysql database) named ongeza_test
+4. create database { mysql database) named ongeza_test
 
-import database from download to a new created db
+5. import database from download to a new created db
 
-go to browser type: localhost/ongeza
+6.go to browser type: localhost/ongeza
